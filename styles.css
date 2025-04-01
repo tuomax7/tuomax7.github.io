@@ -163,3 +163,7 @@ td:first-child {
   font-weight: bold;
   display: block;
 }
+
+video {
+  max-width: 600px;
+}
